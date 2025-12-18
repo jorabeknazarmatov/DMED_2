@@ -619,4 +619,4 @@ MIT
 
 ## Muallif
 
-DMED Development Team
+@jorabeknazarmatov
