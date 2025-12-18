@@ -1,0 +1,288 @@
+[
+    {
+        "reqion": "Samarqand viloyati",
+        "cities": [
+            "Jomboy tumani",
+            "Ishtixon tumani",
+            "Kattaqoʻrgʻon tumani",
+            "Qoʻshrabot tumani",
+            "Narpay tumani",
+            "Nurobod tumani",
+            "Payariq tumani",
+            "Pastdargʻom tumani",
+            "Paxtachi tumani",
+            "Samarqand tumani",
+            "Toyloq tumani",
+            "Urgut tumani",
+            "Kattaqo’rg’on",
+            "Samarqand shahri",
+            "Mirzo Ulug‘bek tumani",
+            "Oqdaryo tumani",
+            "Bulung'ur tumani"
+        ]
+    },
+    {
+        "region": "Toshkent shahri",
+        "cities": [
+            "Olmazor tumani",
+            "Bektemir tumani",
+            "Mirobod tumani",
+            "Mirzo Ulug‘bek tumani",
+            "Sergeli tumani",
+            "Shayxontohur tumani",
+            "Yunusobod tumani",
+            "Yakkasaroy tumani",
+            "Chilonzor tumani",
+            "Yashnobod tumani",
+            "Uchtepa tumani",
+            "Yangihayot tumani"
+        ]
+    },
+    {
+        "region": "Andijon viloyati",
+        "cities": [
+            "Oltinko'l tumani",
+            "Andijon tumani",
+            "Izboskan tumani",
+            "Qo'rg'ontepa tumani",
+            "Marxamat tumani",
+            "Paxtaobod tumani",
+            "Ulug'nor tumani",
+            "Xo'jaobod tumani",
+            "Shahrixon tumani",
+            "Andijon shahri",
+            "Jalaquduq tumani",
+            "Asaka tumani",
+            "Baliqchi tumani",
+            "Bo'loqboshi tumani",
+            "Bo'z tumani",
+            "Xonobod shahri",
+            "Qorasuv shahri",
+            "Bo’ston tumani"
+        ]
+    },
+    {
+        "region": "Qoraqalpog 'iston Respublikasi",
+        "cities": [
+            "Bo’zatov tumani",
+            "Qoraoʻzak tumani",
+            "Kegeyli tumani",
+            "Chimboy tumani",
+            "Shumanay tumani",
+            "Ellikqala tumani",
+            "Nukus shahri",
+            "Amudaryo tumani",
+            "Beruniy tumani",
+            "Qoʻngʻirot tumani",
+            "Qanlikoʻl tumani",
+            "Moʻynoq tumani",
+            "Nukus tumani",
+            "Taxiatosh tumani",
+            "Taxtakoʻpir tumani",
+            "Toʻrtkoʻl tumani",
+            "Xoʻjayli tumani"
+        ]
+    },
+    {
+        "region": "Buxoro viloyati",
+        "cities": [
+            "Olot tumani",
+            "Buxoro tumani",
+            "Vobkent tumani",
+            "G'ijduvon tumani",
+            "Jondor tumani",
+            "Kogon tumani",
+            "Qorako'l tumani",
+            "Qorovulbozor tumani",
+            "Peshko' tumani",
+            "Shofirkon tumani",
+            "Buxoro shahri",
+            "Kogon shahri",
+            "Romitan tumani"
+        ]
+    },
+    {
+        "region": "Jizzax viloyati",
+        "cities": [
+            "Arnasoy tumani",
+            "Baxmal tumani",
+            "G'allaorol tumani",
+            "Do'stlik tumani",
+            "Zomin tumani",
+            "Zarbdor tumani",
+            "Zafarobod tumani",
+            "Mirzacho'l tumani",
+            "Paxtakor tumani",
+            "Forish tumani",
+            "Sharof Rashidov tumani",
+            "Yangiobod tumani",
+            "Jizzax shahri"
+        ]
+    },
+    {
+        "region": "Qashqadaryo viloyati",
+        "cities": [
+            "Guzar tumani",
+            "Dehqonobod tumani",
+            "Qamashin tumani",
+            "Qarshi tumani",
+            "Koson tumani",
+            "Kasbi tumani",
+            "Kitob tumani",
+            "Koʻkdala tumani",
+            "Mirishkor tumani",
+            "Muborak tumani",
+            "Nishon tumani",
+            "Chiroqchi tumani",
+            "Shahrisabz tumani",
+            "Yakkabog' tumani",
+            "Qarshi shahri",
+            "Shahrisabz shahri",
+            "Beshkent shahri",
+            "Navbahor tumani"
+        ]
+    },
+    {
+        "region": "Navoiy viloyati",
+        "cities": [
+            "Konimex tumani",
+            "Qiziltepa tumani",
+            "Nurota tumani",
+            "Tomdi tumani",
+            "Uchquduq tumani",
+            "Xatirchi tumani",
+            "G‘ozg‘on shahri",
+            "Zarafshon shahri",
+            "Navoiy shahri",
+            "Navbahor tumani",
+            "Karmana tumani",
+            "Nurota shahri"
+        ]
+    },
+    {
+        "region": "Namangan viloyati",
+        "cities": [
+            "Kosonsoy tumani",
+            "Mingbuloq tumani",
+            "Namangan tumani",
+            "Norin tumani",
+            "Pop tumani",
+            "To’raqo’rg’on tumani",
+            "Uychi tumani",
+            "Uchqo’rg’on tumani",
+            "Chortoq tumani",
+            "Chust tumani",
+            "Yangiqo’rg’on tumani",
+            "Namangan shahri",
+            "Davlatobod tumani",
+            "Yangi Namangan"
+        ]
+    },
+    {
+        "region": "Surxondaryo viloyati",
+        "cities": [
+            "Oltinsoy tumani",
+            "Angor tumani",
+            "Boysun tumani",
+            "Bandixon tumani",
+            "Denov tumani",
+            "Jarqoʻrgʻon tumani",
+            "Qiziriq tumani",
+            "Qumqoʻrgʻon tumani",
+            "Muzrabot tumani",
+            "Sariosiyo tumani",
+            "Termiz tumani",
+            "Uzun tumani",
+            "Sherobod tumani",
+            "Shurchi tumani",
+            "Termiz shahri"
+        ]
+    },
+    {
+        "region": "Sirdaryo viloyati",
+        "cities": [
+            "Oqoltin tumani",
+            "Boyovut tumani",
+            "Guliston tumani",
+            "Mirzaobod tumani",
+            "Sayxunobod tumani",
+            "Sardoba tumani",
+            "Sirdaryo tumani",
+            "Xovos tumani",
+            "Guliston shahri",
+            "Shirin shahri",
+            "Yangiyer shahri"
+        ]
+    },
+    {
+        "region": "Toshkent viloyati",
+        "cities": [
+            "Oqqoʻrgʻon tumani",
+            "Ohangaron tumani",
+            "Bekobod tumani",
+            "Boʻstonliq tumani",
+            "Boʻka tumani",
+            "Zangiota tumani",
+            "Qibray tumani",
+            "Quyichirchiq tumani",
+            "Parkent tumani",
+            "Piskent tumani",
+            "Toshkent tumani",
+            "Oʻrtachirchiq tumani",
+            "Chinoz tumani",
+            "Yuqorichirchiq tumani",
+            "Yangiyoʻl tumani",
+            "Olmaliq shahri",
+            "Angren shahri",
+            "Ohangaron shahri",
+            "Bekobod shahri",
+            "Nurafshon shahri",
+            "Yangiyoʻl shahri",
+            "Chirchiq shahri"
+        ]
+    },
+    {
+        "region": "Farg'ona viloyati",
+        "cities": [
+            "Oltiariq tumani",
+            "Bagʻdod tumani",
+            "Beshariq tumani",
+            "Buvayda tumani",
+            "Dangʻara tumani",
+            "Quva tumani",
+            "Qo'shtepa tumani",
+            "Rishton tumani",
+            "Soʻx tumani",
+            "Toshloq tumani",
+            "Oʻzbekiston tumani",
+            "Uchkoʻprik tumani",
+            "Fargʻona tumani",
+            "Furqat tumani",
+            "Yozyovon tumani",
+            "Qoʻqon shahri",
+            "Quvasoy shahri",
+            "Marg’ilon shahri",
+            "Fargʻona shahri"
+        ]
+    },
+    {
+        "region": "Xorazm viloyati",
+        "cities": [
+            "Bogʻot tumani",
+            "Gurlan tumani",
+            "Qoʻshkoʻpir tumani",
+            "Tuproqqal’a tumani",
+            "Urganch tumani",
+            "Xazorasp tumani",
+            "Xonqa tumani",
+            "Xiva tumani",
+            "Shovot tumani",
+            "Yangiariq tumani",
+            "Yangibozor tumani",
+            "Urganch shahri",
+            "Xiva shahri"
+        ]
+    }
+]
+
+
