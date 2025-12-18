@@ -619,4 +619,4 @@ MIT
 
 ## Muallif
 
-@jorabeknazarmatov
+[Turabek](https://github.com/jorabeknazarmatov)
